@@ -42,3 +42,6 @@ All plots saved in `visualizations/` directory:
 - Top 15 pickup zones generate disproportionate revenue
 - Credit card payments account for 70%+ of trips
 - Tip percentage is flat (~15-18%) across passenger counts
+
+## Youtube Link
+- https://youtu.be/m2bCDILcRwQ
