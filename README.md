@@ -1,5 +1,8 @@
 # NYC Yellow Taxi - MongoDB Medallion Architecture
 
+> **Learning project** — built as coursework / for learning. Kept here as a reference and a record of the work.
+
+
 **Course:** Big Data: Tools and Techniques (Spring 2026)
 **Database:** MongoDB
 **Dataset:** NYC TLC Yellow Taxi Trip Records, January 2024
@@ -45,3 +48,7 @@ All plots saved in `visualizations/` directory:
 
 ## Youtube Link
 - https://youtu.be/m2bCDILcRwQ
+
+---
+
+Built by **Naman Parmar** ([nx9161](https://github.com/nx9161)).
